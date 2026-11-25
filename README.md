@@ -1,3 +1,4 @@
+![Seal World](capa-seal-world.png)
 # 🦭 Seal World
 
 ### Projeto de desenvolvimento web com temática sobre focas
